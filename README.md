@@ -38,4 +38,4 @@
 - đầu tiên tui sẽ tích góp tiền
 - tui sẽ lên kế hoạch chi tiết để có một chuyến đi vui vẻ
 - this is place I always wanna go
-  <img src"https://statics.vinpearl.com/da-lat-vietnam-thumb_1690600971.jpeg" width 300px/>
+  <img src  ="https://statics.vinpearl.com/da-lat-vietnam-thumb_1690600971.jpeg" width 300px/>
