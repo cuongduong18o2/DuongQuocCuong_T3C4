@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cuongduong18o2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cuongduong18o2&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 <img src ="https://scontent.fsgn5-15.fna.fbcdn.net/v/t39.30808-6/463257540_1542771006364921_8076364421939796285_n.jpg?stp=cp6_dst-jpg&_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=aUG6nBgXvvYQ7kNvgH5UrrY&_nc_zt=23&_nc_ht=scontent.fsgn5-15.fna&_nc_gid=Aw9ZFGlox12_HZCTiCc4wDM&oh=00_AYAtzEXyKT21I3yKxEuztVfpPIFjlcTSNLFWWo2FQSvVgw&oe=672270A5" width = 512px/>
@@ -25,9 +25,6 @@
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 
 
