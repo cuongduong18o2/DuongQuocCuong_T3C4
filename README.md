@@ -1,9 +1,9 @@
-# thông tin cá nhân của cường
-:technologist: tui là cường nè   
-:monkey: sinh năm 2004   
-:computer: đang theo học tại HUFLIT  
-:basketball: tui rất thích chơi bóng rổ   
-:derelict_house: nhà của tui ở đồng nai nè   
+# Information about DuongCuong
+:technologist: I'm Duong Cuong
+:monkey: I was born 2004   
+:computer: Studying at HUFLIT 
+:basketball: I really like basketball so much
+:derelict_house: My hometown is DongNai Province
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/cuongduongne) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cdz18o2) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@cdz18o2) 
